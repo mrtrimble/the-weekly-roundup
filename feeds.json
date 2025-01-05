@@ -1,0 +1,457 @@
+[
+  {
+    "title": "Adam Argyle",
+    "rss": "https://nerdy.dev/rss.xml",
+    "site": "https://nerdy.dev/"
+  },
+  {
+    "title": "ADHD FTW",
+    "rss": "https://adhdftw.com/feed/index.xml",
+    "site": "https://adhdftw.com/"
+  },
+  {
+    "title": "Adrian Roselli",
+    "rss": "https://adrianroselli.com/feed",
+    "site": "https://adrianroselli.com/"
+  },
+  {
+    "title": "Ahmad Shadeed",
+    "rss": "https://ishadeed.com/feed.xml",
+    "site": "https://ishadeed.com/"
+  },
+  {
+    "title": "Alex Riviere",
+    "rss": "https://alex.party/rss.xml",
+    "site": "https://alex.party/"
+  },
+  {
+    "title": "Alistair Shepherd",
+    "rss": "https://alistairshepherd.uk/feed.xml",
+    "site": "https://alistairshepherd.uk/"
+  },
+  {
+    "title": "Alex Trost",
+    "rss": "https://trost.codes/rss.xml",
+    "site": "https://trost.codes/"
+  },
+  {
+    "title": "Andy Bell",
+    "rss": "https://andy-bell.co.uk/feed/",
+    "site": "https://andy-bell.co.uk/"
+  },
+  {
+    "title": "Aubrey Sambor",
+    "rss": "https://aubreysambor.com/feed.xml",
+    "site": "https://aubreysambor.com/"
+  },
+  {
+    "title": "Baldur Bjarnason",
+    "rss": "https://feedpress.me/baldurbjarnason",
+    "site": "https://baldurbjarnason.com"
+  },
+  {
+    "title": "Ben Myers",
+    "rss": "https://benmyers.dev/feed.xml",
+    "site": "https://benmyers.dev/"
+  },
+  {
+    "title": "Brad Frost",
+    "rss": "https://feeds.feedburner.com/brad-frosts-blog",
+    "site": "https://bradfrost.com/"
+  },
+  {
+    "title": "Cassie Evans",
+    "rss": "https://www.cassie.codes/feed.xml",
+    "site": "https://cassie.codes/"
+  },
+  {
+    "title": "Christopher Kirk-Nielsen",
+    "rss": "https://chriskirknielsen.com/rss.xml",
+    "site": "https://chriskirknielsen.com/"
+  },
+  {
+    "title": "Bramus Van Damme",
+    "rss": "https://www.bram.us/feed/",
+    "site": "https://bram.us/"
+  },
+  {
+    "title": "Chris Coyier",
+    "rss": "https://chriscoyier.net/feed/",
+    "site": "https://chriscoyier.net/"
+  },
+  {
+    "title": "CSS { In Real Life }",
+    "rss": "https://css-irl.info/rss.xml",
+    "site": "https://css-irl.info/"
+  },
+  {
+    "title": "CSS Tip",
+    "rss": "https://css-tip.com/feed/feed.xml",
+    "site": "https://css-tip.com/"
+  },
+  {
+    "title": "Dave Rupert",
+    "rss": "https://daverupert.com/atom.xml",
+    "site": "https://daverupert.com/"
+  },
+  {
+    "title": "CSS-Tricks",
+    "rss": "https://css-tricks.com/feed/",
+    "site": "https://css-tricks.com/"
+  },
+  {
+    "title": "David Darnes",
+    "rss": "https://darn.es/rss.xml",
+    "site": "https://darn.es/"
+  },
+  {
+    "title": "David Fitzgibbon",
+    "rss": "https://lofi.codes/feed.xml",
+    "site": "https://lofi.codes/"
+  },
+  {
+    "title": "Eric W. Bailey",
+    "rss": "https://ericwbailey.website/feed/feed.xml",
+    "site": "https://ericwbailey.website/"
+  },
+  {
+    "title": "Ethan Marcotte",
+    "rss": "https://ethanmarcotte.com/wrote/feed.xml",
+    "site": "https://ethanmarcotte.com/"
+  },
+  {
+    "title": "Geoff Graham",
+    "rss": "https://geoffgraham.wpengine.com/feed/",
+    "site": "https://geoffgraham.me/"
+  },
+  {
+    "title": "Go Make Things",
+    "rss": "https://gomakethings.com/feed/index.xml",
+    "site": "https://gomakethings.com/"
+  },
+  {
+    "title": "Heydon Pickering",
+    "rss": "https://heydonworks.com/feed.xml",
+    "site": "https://heydonworks.com/"
+  },
+  {
+    "title": "Jaime Jones",
+    "rss": "https://jai.me/rss.xml",
+    "site": "https://jai.me/"
+  },
+  {
+    "title": "Hidde de Vries",
+    "rss": "https://hidde.blog/feed",
+    "site": "https://hidde.blog/"
+  },
+  {
+    "title": "James Basoo",
+    "rss": "https://jamesbasoo.com/blog/feed.xml",
+    "site": "https://jamesbasoo.com/"
+  },
+  {
+    "title": "Khalid Abuhakmeh",
+    "rss": "https://khalidabuhakmeh.com/feed.xml",
+    "site": "https://khalidabuhakmeh.com/"
+  },
+  {
+    "title": "Kilian Valkhof",
+    "rss": "https://kilianvalkhof.com/sitemap.rss",
+    "site": "https://kilianvalkhof.com/"
+  },
+  {
+    "title": "Lea Rosema",
+    "rss": "https://lea.codes/rss.xml",
+    "site": "https://lea.codes/"
+  },
+  {
+    "title": "Jeremy Keith",
+    "rss": "https://adactio.com/articles/rss",
+    "site": "https://adactio.com/"
+  },
+  {
+    "title": "Léonie Watson",
+    "rss": "https://tink.uk/feed.xml",
+    "site": "https://tink.uk/"
+  },
+  {
+    "title": "Lynn Fisher",
+    "rss": "https://lynnandtonicblog.com/feed/feed.xml",
+    "site": "https://lynnandtonicblog.com/"
+  },
+  {
+    "title": "Lea Verou",
+    "rss": "https://lea.verou.me/feed.xml",
+    "site": "https://lea.verou.me/"
+  },
+  {
+    "title": "Mayank",
+    "rss": "https://www.mayank.co/blog/rss.xml",
+    "site": "https://mayank.co/"
+  },
+  {
+    "title": "Manuel Matuzović",
+    "rss": "https://www.matuzo.at/feed.xml",
+    "site": "https://matuzo.at/"
+  },
+  {
+    "title": "Maciej Pędzich",
+    "rss": "https://maciejpedzi.ch/rss.xml",
+    "site": "https://maciejpedzi.ch/"
+  },
+  {
+    "title": "Mike Aparicio",
+    "rss": "https://www.mikeaparicio.com/feed.xml",
+    "site": "https://mikeaparicio.com/"
+  },
+  {
+    "title": "Modern CSS",
+    "rss": "https://moderncss.dev/feed/",
+    "site": "https://moderncss.dev/"
+  },
+  {
+    "title": "Miriam Suzanne",
+    "rss": "https://www.miriamsuzanne.com/feed.xml",
+    "site": "https://miriamsuzanne.com/"
+  },
+  {
+    "title": "Nathan Knowler",
+    "rss": "https://knowler.dev/feed.xml",
+    "site": "https://knowler.dev/"
+  },
+  {
+    "title": "Peruvian Idle",
+    "rss": "https://peruvianidle.mikeaparicio.com/feed.xml",
+    "site": "peruvianidle.mikeaparicio.com"
+  },
+  {
+    "title": "Noah Liebman",
+    "rss": "https://noahliebman.net/feed/index.xml",
+    "site": "https://noahliebman.net/"
+  },
+  {
+    "title": "Piccalilli",
+    "rss": "https://piccalil.li/feed.xml",
+    "site": "https://piccalil.li/"
+  },
+  {
+    "title": "Polypane",
+    "rss": "https://polypane.app/rss.xml",
+    "site": "https://polypane.app/"
+  },
+  {
+    "title": "Richard Rutter",
+    "rss": "https://clagnut.com/feeds/fullposts.xml",
+    "site": "https://clagnut.com/"
+  },
+  {
+    "title": "RIMdev",
+    "rss": "https://rimdev.io/feed.xml",
+    "site": "https://rimdev.io/"
+  },
+  {
+    "title": "Roman Komarov",
+    "rss": "https://feeds.feedburner.com/kizuruen",
+    "site": "https://kizu.dev/"
+  },
+  {
+    "title": "Ryan Mulligan",
+    "rss": "https://ryanmulligan.dev/feed.xml",
+    "site": "https://ryanmulligan.dev/"
+  },
+  {
+    "title": "Salma Alam-Naylor",
+    "rss": "https://whitep4nth3r.com/feed.xml",
+    "site": "https://whitep4nth3r.com/"
+  },
+  {
+    "title": "Sara Joy",
+    "rss": "https://sarajoy.dev/rss.xml",
+    "site": "https://sarajoy.dev/"
+  },
+  {
+    "title": "Sara Soueidan",
+    "rss": "https://www.sarasoueidan.com/blog/index.xml",
+    "site": "https://sarasoueidan.com/"
+  },
+  {
+    "title": "Set Studio",
+    "rss": "https://set.studio/feed/",
+    "site": "https://set.studio/"
+  },
+  {
+    "title": "Sophie Koonin",
+    "rss": "https://localghost.dev/feed.xml",
+    "site": "https://localghost.dev/"
+  },
+  {
+    "title": "Steph Eckles",
+    "rss": "https://thinkdobecreate.com/feed",
+    "site": "https://thinkdobecreate.com/"
+  },
+  {
+    "title": "Tyler Sticka",
+    "rss": "https://tylersticka.com/journal/feed.xml",
+    "site": "https://tylersticka.com/"
+  },
+  {
+    "title": "Una Kravets",
+    "rss": "https://una.im/rss.xml",
+    "site": "https://una.im/"
+  },
+  {
+    "title": "Zach Leatherman",
+    "rss": "https://www.zachleat.com/web/feed/",
+    "site": "https://zachleat.com/"
+  },
+  {
+    "title": "Alvaro Montoro",
+    "rss": "https://alvaromontoro.com/feed.rss",
+    "site": "https://alvaromontoro.com/"
+  },
+  {
+    "title": "Bob Monsour",
+    "rss": "https://bobmonsour.com/feed.xml",
+    "site": "https://bobmonsour.com/"
+  },
+  {
+    "title": "David Ullrich",
+    "rss": "https://production-ready.de/feed/en.xml",
+    "site": "https://production-ready.de/"
+  },
+  {
+    "title": "Jeremias Menichelli",
+    "rss": "https://jeremias.codes/feed.xml",
+    "site": "https://jeremias.codes/"
+  },
+  {
+    "title": "Daniel Roe",
+    "rss": "https://roe.dev/rss.xml",
+    "site": "https://roe.dev/"
+  },
+  {
+    "title": "Eva Decker",
+    "rss": "https://eva.town/rss.xml",
+    "site": "https://eva.town/"
+  },
+  {
+    "title": "Robin Rendle",
+    "rss": "https://robinrendle.com/feed.xml",
+    "site": "https://robinrendle.com/"
+  },
+  {
+    "title": "Homer Gaines",
+    "rss": "https://rightbadcode.com/rss.xml",
+    "site": "https://rightbadcode.com/"
+  },
+  {
+    "title": "Scott Kellum",
+    "rss": "https://scottkellum.com/rss.xml",
+    "site": "https://scottkellum.com/"
+  },
+  {
+    "title": "Benji",
+    "rss": "https://www.benji.dog/all.xml",
+    "site": "https://benji.dog/"
+  },
+  {
+    "title": "Jonathan Dallas",
+    "rss": "https://jwdallas.com/feed.xml",
+    "site": "https://jwdallas.com/"
+  },
+  {
+    "title": "Philipp Temmel",
+    "rss": "https://politepol.com/fd/GJGEJ2O4WDBt",
+    "site": "https://politepol.com/"
+  },
+  {
+    "title": "Mark Pitblado",
+    "rss": "https://www.markpitblado.me/feed.xml",
+    "site": "https://markpitblado.me/"
+  },
+  {
+    "title": "Kizu",
+    "rss": "https://blog.kizu.dev/rss.xml",
+    "site": "https://blog.kizu.dev/"
+  },
+  {
+    "title": "Jim Nielson",
+    "rss": "https://blog.jim-nielsen.com/feed.xml",
+    "site": "https://blog.jim-nielsen.com/"
+  },
+  {
+    "title": "Tim Severien",
+    "rss": "https://tsev.dev/feed.xml",
+    "site": "https://tsev.dev/"
+  },
+  {
+    "title": "Amadeus Maximilian",
+    "rss": "https://amxmln.com/rss.xml",
+    "site": "https://amxmln.com/"
+  },
+  {
+    "title": "Ben Daubney",
+    "rss": "https://wilnichols.com/feed.xml",
+    "site": "https://bendaubney.com/"
+  },
+  {
+    "title": "Lou Plummer",
+    "rss": "https://louplummer.lol/feed.xml",
+    "site": "https://louplummer.lol/"
+  },
+  {
+    "title": "Ollie Williams",
+    "rss": "https://fullystacked.net/rss.xml",
+    "site": "https://fullystacked.net/"
+  },
+  {
+    "title": "Simon Willison",
+    "rss": "https://simonwillison.net/atom/everything/",
+    "site": "https://simonwillison.net/"
+  },
+  {
+    "title": "Pup on Tech",
+    "rss": "https://pupontech.com/feed/",
+    "site": "https://pupontech.com/"
+  },
+  {
+    "title": "Jedda",
+    "rss": "https://notes.jeddacp.com/rss.xml",
+    "site": "https://notes.jeddacp.com/"
+  },
+  {
+    "title": "Wesley Winks",
+    "rss": "https://wwinks.com/feed.xml",
+    "site": "https://wwinks.com/"
+  },
+  {
+    "title": "Campbell Jones",
+    "rss": "https://serebit.dev/index.xml",
+    "site": "https://serebit.dev/"
+  },
+  {
+    "title": "Sia Karamalegos",
+    "rss": "https://sia.codes/feed/feed.xml",
+    "site": "https://sia.codes/"
+  },
+  {
+    "title": "Keith J. Grant",
+    "rss": "https://keithjgrant.com/posts/index.xml",
+    "site": "https://keithjgrant.com/"
+  },
+  {
+    "title": "Charles Villard",
+    "rss": "https://charlesvillard.co/rss.xml",
+    "site": "https://charlesvillard.co/"
+  },
+  {
+    "title": "Max Böck",
+    "rss": "https://mxb.dev/feed.xml",
+    "site": "https://mxb.dev/"
+  },
+  {
+    "title": "Josh Collinsworth",
+    "rss": "https://joshcollinsworth.com/api/rss.xml",
+    "site": "https://joshcollinsworth.com/"
+  }
+]
